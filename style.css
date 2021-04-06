@@ -1,0 +1,70 @@
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+font-size: ;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 60%;
+}
+
+.top-banner{
+    background-image: url("photo/header-bg.png");
+}
+section{
+    height: 500px;
+}
+.button{
+    background-color: hotpink;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px solid white;
+    font-weight: 700;
+}
+
+.biography{
+    background-image: url("photo/biography-bg.png");
+}
+
+.row img{
+    width: 300px;
+    float: left;
+    margin-left: 140px;
+}
+
+.my-work{
+    background-image: url("/photo/latest-work-bg.png");
+}
+
+.what-client{
+    background-image: url("photo/footer-bg.png");
+}
+
+.kalu{
+    padding: 15px;
+    margin: 20px;
+}
+.lalu{
+background-color: hotpink;
+color: white;
+padding: 20px;
+margin-left: 340px;
+width: 680px;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+}
